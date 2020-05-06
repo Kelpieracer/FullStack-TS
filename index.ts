@@ -25,7 +25,7 @@ let notes: INotes[] = [
     important: false
   }, 
   { 
-    id: 3,
+    id: 3, 
     content: 'HTTP-protokollan tärkeimmät metodit ovat GET ja POST',
     date: '2017-12-10T19:20:14.298Z',
     important: true
