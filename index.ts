@@ -9,7 +9,7 @@ interface INotes {
   content: string,
   date: string,
   important: boolean
-}
+} 
 
 let notes: INotes[] = [
   {
@@ -17,7 +17,7 @@ let notes: INotes[] = [
     content: 'HTML on helppoa',
     date: '2017-12-10T17:30:31.098Z',
     important: true
-  },  
+  }, 
   { 
     id: 2,
     content: 'Selain pystyy suorittamaan vain javascriptiä',
